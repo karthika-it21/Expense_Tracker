@@ -44,4 +44,4 @@ Delete Expense
 
 ## Contact: 
 For any queries or support regarding this project, feel free to reach out:
-**Email:** [mahalakshmi.it21@bitsathy.ac.in](mailto:mahalakshmi.it21@bitsathy.ac.in)
+**Email:** [karthika.it21@bitsathy.ac.in](mailto:karthika.it21@bitsathy.ac.in)
